@@ -1,0 +1,2 @@
+* text=auto
+flutter/* filter=lfs diff=lfs merge=lfs -text
